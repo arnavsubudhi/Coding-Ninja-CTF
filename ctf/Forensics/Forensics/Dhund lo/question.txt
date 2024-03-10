@@ -1,0 +1,4 @@
+Find the location of the image below on Google maps (just copy and paste the whole URL of the location in google maps)
+
+
+Ans- https://www.google.com/maps/@48.1521686,11.6149802,3a,75y,314.39h,92.55t/data=!3m6!1e1!3m4!1scqvoSmzIXUNLLgOl8wrZeQ!2e0!7i13312!8i6656

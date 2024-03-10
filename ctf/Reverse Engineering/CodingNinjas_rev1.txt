@@ -1,0 +1,8 @@
+Prepare yourself for a formidable challenge as you confront the fortified vault protected by the Coding Ninjas.
+The authentication mechanism employed in this vault involves a sophisticated encryption algorithm.
+Your mission, should you choose to accept it, 
+is to reverse engineer the 'XOR' algorithm used to verify passwords and decipher the correct password to gain entry into the secure vault.
+
+
+
+ANSWER = CN{n0t_mUcH_h4rD3r_tH4n_x0r_948b888}

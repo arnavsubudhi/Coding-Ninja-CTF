@@ -1,0 +1,5 @@
+Can you break into the secure vault protected by the mysterious Coding Ninjas?
+You have been provided with a Java program that simulates the authentication process for accessing the vault.
+Your task is to reverse engineer the algorithm used to check passwords and find the correct password to gain access.
+
+ANSEWR = CN{jU5t_a_s1mpl3_an4gr4m_4_u_79958f}

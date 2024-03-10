@@ -1,0 +1,6 @@
+Are you ready to tackle an even more challenging vault protected by the Coding Ninjas?
+This time, the authentication process involves multiple encoding techniques.
+Your mission, should you choose to accept it,
+is to reverse engineer the algorithm used to verify passwords and find the correct password to penetrate the fortified vault.
+
+ANSWER = CN{c0nv3rt1ng_fr0m_ba5e_64_e3152bf4}
